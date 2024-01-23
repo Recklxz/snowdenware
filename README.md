@@ -5,11 +5,11 @@
 
 ## A Open linux Terminal
 
-type in **git clone** and paste the link 
+type in (**git clone**)and paste the link 
 
 USAGE: 
 
-**python3 snowden.py**
+[**python3 snowden.py**]
 
 it will encrypt the files present in the folder 
 
@@ -30,7 +30,7 @@ If you accidently do it anyway, use
 
 
 
-###For UBUNTU
+## A For UBUNTU
 
 **sudo apt update**
 **sudo apt-get install python3**
