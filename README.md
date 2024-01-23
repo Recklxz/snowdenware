@@ -9,7 +9,7 @@ type in [***git clone***] and paste the link
 
 USAGE: 
 
-'[***python3 snowden.py***]'
+[***python3 snowden.py***]
 
 It will encrypt the files present in the folder 
 
@@ -43,3 +43,6 @@ If you accidently do it anyway, use
 [***sudo apt-get install python3***]
 
 [***sudo apt install python3-pip***]
+
+cd snowdenware
+sudo git clone
