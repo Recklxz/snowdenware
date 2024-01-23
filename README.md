@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Recklxz/snowdenware/assets/154778591/3a35b1f8-38fc-4c61-8123-06b1367c6b15)
 
-##A Open linux Terminal
+##  Open linux Terminal
 
 type in [***git clone***] and paste the link 
 
@@ -26,7 +26,7 @@ If you accidently do it anyway, use
 
 
 
-##A Make sure you have the python repositories 
+##  Make sure you have the python repositories 
 
 
 
@@ -44,7 +44,7 @@ If you accidently do it anyway, use
 
 
 
-##A For UBUNTU
+##  For UBUNTU
 
 
 
