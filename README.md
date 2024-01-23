@@ -13,7 +13,7 @@ USAGE:
 
 it will encrypt the files present in the folder 
 
-## A Make sure to use the command inside the folder to not accidently encrypt your precious data 
+# A Make sure to use the command inside the folder to not accidently encrypt your precious data 
 
 If you accidently do it anyway, use 
 
