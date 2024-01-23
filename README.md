@@ -1,4 +1,4 @@
-# snowdenware
+# Snowdenware
  it's a kind of ransomware which can encrypt data, it is a simple design of how a ransomware works, I have also provided a decryption key as a safety measure
 
 ![image](https://github.com/Recklxz/snowdenware/assets/154778591/3a35b1f8-38fc-4c61-8123-06b1367c6b15)
@@ -18,9 +18,17 @@ It will encrypt the files present in the folder
 
 If you accidently do it anyway, use
 
+
+
+
 [***python3 decryptt.py***]
 
+
+
+
 ## A Make sure you have the python repositories 
+
+
 
 [***sudo apt update***]
 
@@ -37,6 +45,8 @@ If you accidently do it anyway, use
 
 
 ## A For UBUNTU
+
+
 
 [***sudo apt update***]
 
