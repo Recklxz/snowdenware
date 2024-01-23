@@ -5,7 +5,7 @@
 
 ## A Open linux Terminal
 
-type in [****git clone***] and paste the link 
+type in [***git clone***] and paste the link 
 
 USAGE: 
 
@@ -13,7 +13,7 @@ USAGE:
 
 it will encrypt the files present in the folder 
 
-### A Make sure to use the command inside the folder to not accidently encrypt your precious data 
+- ![#f03c15] ### A Make sure to use the command inside the folder to not accidently encrypt your precious data 
 
 If you accidently do it anyway, use 
 
@@ -38,5 +38,7 @@ If you accidently do it anyway, use
 ## A For UBUNTU
 
 [***sudo apt update***]
+
 [***sudo apt-get install python3***]
+
 [***sudo apt install python3-pip***]
