@@ -13,10 +13,10 @@ USAGE:
 
 it will encrypt the files present in the folder 
 
- <p style="color🔴"><strong>Make sure to use the command inside the folder to avoid accidentally encrypting your precious data</strong></p>
+ - <p style="color🔴"><strong>Make sure to use the command inside the folder to avoid accidentally encrypting your precious data</strong></p>
 
 
-If you accidently do it anyway, use 
+'''If you accidently do it anyway, use'''
 
 [***python3 decryptt.py***]
 
