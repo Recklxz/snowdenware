@@ -44,5 +44,3 @@ If you accidently do it anyway, use
 
 [***sudo apt install python3-pip***]
 
-cd snowdenware
-sudo git clone
